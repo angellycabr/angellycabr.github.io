@@ -4,7 +4,6 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-# CONFERENCES & INVITED TALKS
 
 - **Cabrera, A.\***, Lopez, A.\* (2024). "Bridging Cultures, Building Breakthroughs: AI Ethics." Invited to discuss ethics in generative AI and Latinx representation at the University of California, Riverside's SHPEtinas conference, Society of Hispanic Professional Engineers.
 - **Cabrera, A.** (2023). "Computer Vision-Based Inventory Management and Product Recommendation System." Served on the organizing committee for the Ming Hsieh Institute’s annual fall research festival at the University of Southern California. Awarded undergraduate research scholar.
