@@ -59,33 +59,19 @@ Professional Experience
 - Engaged in a seven-week academy to learn the product management lifecycle, applying these skills to develop a real-time climate data and emergency resources web application to inform communities facing extreme weather events.
 - Implemented web APIs, designed wireframes and UI layouts, and wrote an engineering specification to develop a minimum viable product that was presented to Microsoft executives.
   
-Skills
+Awards & Leadership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Albert Dorman Future Leader Award**, USC   2024
+- **Grand Challenges Scholar**, National Academy of Engineering   2024
+- **Honorable Mention**, National Center for Women & IT   2024
+- **AI Community Scholar**, USC & Google   2023
+- **Graduate School Mentorship Initiative**, Cientifico Latino   2023
+- **Research Scholar**, USC Ming Hsieh Institute   2023 - 2024
+- **Finalist**, National Center for Women & IT   2023
+- **Computer Science Research Mentorship Program**, Google   2023
+- **Latinx Student Leader**, Google   2022
+- **ANY Fellow**, America Needs You   2021 - 2022
+- **Presidential Scholar**, USC   2020 - 2024
+- **Linn-Viterbi Scholar**, USC   2020 - 2024
+- **Linn-Viterbi Fellow**, USC   2020 - 2024
+- **College Match Finalist**, Questbridge   2020
