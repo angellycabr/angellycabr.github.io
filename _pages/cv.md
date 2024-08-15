@@ -17,22 +17,18 @@ Research Experience
 ======
 **University of Southern California**, Signal Analysis and Interpretation Laboratory  
 *Monitoring Productivity in the Workplace*  January 2024 – Present  
-Advisor: Dr. Shrikanth Narayanan  
 - Performed statistical tests on physiological and survey data to analyze feature variability in stress, mood, and productivity across work environments.
 - Built and optimized a random forest classifier for self-reported attributes using mean imputation, z-score normalization, and hyperparameter tuning with cross-validation.
 
 *Leaf Rust Detection on Low-Resolution Images*  August 2023 – Present 
-Advisor: Dr. Shrikanth Narayanan  
 - Developed deep-learning models for early detection of leaf rust in coffee leaves, achieving 94% precision and recall by performing image convolution and downsizing.
 - Modified existing datasets to improve lesion-leaf contrast and trained convolutional models on low-resolution images, enhancing detection capabilities for crop disease identification.
 
 *Semantic Deep Learning for Sarcastic Hate Speech Detection*  April 2024 – May 2024
-Course Instructor: Dr. Antonio Ortega  
 - Developed and optimized two deep learning models using BERT embeddings and LSTM layers to effectively detect and categorize nuanced forms of hate speech and sarcasm.
 - Integrated multiple datasets to create a novel, unified framework that addresses the gap in detecting implicit hate speech and sarcasm.
 
-*Wearable Bio-Sensing for Family Well-Being*  January 2022 – December 2023  
-Advisor: Dr. Shrikanth Narayanan  
+*Wearable Bio-Sensing for Family Well-Being*  January 2022 – December 2023    
 - Engineered preprocessing scripts to convert raw biometric data from wearable devices into datasets, enabling early detection of emotional distress in adolescents through supervised learning.
 - Collaborated with psychology researchers to integrate audio transformers and extract event tags from audio data, enhancing biometric analysis to identify signs of inter-family conflict.
 
