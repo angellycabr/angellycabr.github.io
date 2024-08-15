@@ -26,20 +26,17 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   employer         : "University of Southern California"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "karycabr@usc.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  researchgate     : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=_u4VyUcAAAAJ&hl=en&oi=ao"
+  orcid            : "https://orcid.org/0009-0006-7646-6386"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "angellycabr"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -217,15 +214,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
