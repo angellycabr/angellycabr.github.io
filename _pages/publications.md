@@ -11,4 +11,4 @@ author_profile: true
 \* Indicates equal contribution.
 
 ## Conference Presentations
-- - Timmons, A. C., Duong, J. B., Carta, K. E., Walters, S. N., Benamu, D. I., Jumonville, G. A., Freitag, G. F., Tutul, A. A., **Cabrera, A.**, Comer, J. S., Chaspari, T., Narayanan, S., & Timmons, A. C. (2023). "Psychophysiology sensing via wearables to model family well-being." Paper presented at the Society for Affective Science Annual Conference, Long Beach, CA.
+- Timmons, A. C., Duong, J. B., Carta, K. E., Walters, S. N., Benamu, D. I., Jumonville, G. A., Freitag, G. F., Tutul, A. A., **Cabrera, A.**, Comer, J. S., Chaspari, T., Narayanan, S., & Timmons, A. C. (2023). "Psychophysiology sensing via wearables to model family well-being." Paper presented at the Society for Affective Science Annual Conference, Long Beach, CA.
