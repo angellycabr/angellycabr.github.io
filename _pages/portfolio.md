@@ -13,10 +13,9 @@ Projects
 - **Raspberry Pi-based k-means for music genre classification**: Developed a Raspberry Pi-based k-means classification model utilizing volume sensor data to classify music genres and generate song recommendations. [Link](https://github.com/angellycabr/EE250-Final-Project)
 - **Metal matrix reinforced shape-memory alloy tires**: Collaborated on a proposal for self-repairing alloy tires, emphasizing material properties and stress analysis. The proposal was successfully accepted into NASA's New Technology Report database.
 
-Conferences & Invited Talks
+Other Conferences & Invited Talks
 ======
 - **Cabrera, A.\***, Lopez, A.\* (2024). "Bridging Cultures, Building Breakthroughs: AI Ethics." Invited to discuss ethics in generative AI and Latinx representation at the University of California, Riverside's SHPEtinas conference, Society of Hispanic Professional Engineers.
-- **Cabrera, A.** (2023). "Computer Vision-Based Inventory Management and Product Recommendation System." Served on the organizing committee for the Ming Hsieh Institute’s annual fall research festival at the University of Southern California. Awarded undergraduate research scholar.
 - **Cabrera, A.\***, Saldana G.\*, Hassan N.\*, Umoren E.\* (2023). "Incident Post-Mortem Analysis - Auto Resolution." Selected as one of the top 50 teams from a competitive organization-wide selection to present at Microsoft’s E+D Intern Demo Symposium at Microsoft Headquarters.
 - **Cabrera, A.\***, Reyes S.\* (2022). "Verizon: Identifying Objects and Sorting by Color." Presentation awarded finalist title for the National Center for Women & Information Technology’s Collegiate Award. Break Through Tech AI, University of California, Los Angeles.
 - **Cabrera, A.\***, Ojukwu, C.\*, Lim, S.\*, Deng, J.\* (2021). "Understanding the Role of Machine Learning in Music." Center of Computational Media Intelligence, University of Southern California.
