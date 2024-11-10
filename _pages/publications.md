@@ -10,5 +10,6 @@ author_profile: true
 
 # Conference Presentations
 - Timmons, A. C., Duong, J. B., Carta, K. E., Walters, S. N., Benamu, D. I., Jumonville, G. A., Freitag, G. F., Tutul, A. A., **Cabrera, A.**, Comer, J. S., Chaspari, T., Narayanan, S., & Timmons, A. C. (2023). "Psychophysiology sensing via wearables to model family well-being." Paper presented at the Society for Affective Science Annual Conference, Long Beach, CA.
+- **Cabrera, A.** (2023). "Computer Vision-Based Inventory Management and Product Recommendation System." Served on the organizing committee for the Ming Hsieh Institute’s annual fall research festival at the University of Southern California. Project awarded finalist title from the National Center for Women & IT. 
 
 \* Indicates equal contribution.
