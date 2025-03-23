@@ -36,24 +36,23 @@ Professional Experience
 ======
 **Microsoft & Cyborg Mobile**  May 2024 – August 2024  
 *Software Engineering Intern, IC3 (M365 Substrate)*  
-- Developed a console application for the Media Controller team to host toolkit services for performance testing, migrating these services from Azure Classic Cloud to Azure Kubernetes to support Microsoft Teams backend.
-- Containerized a .NET console application with Docker, deployed it to Azure Kubernetes via Azure Pipelines, and created a stress test profile to ensure reliable communication with the Media Controller service.
+- Developed a C# console application to host and migrate Microsoft Teams performance testing services from Azure Classic Cloud to Kubernetes following its deprecation.
+- Containerized testing services with Docker, deployed to Kubernetes using YAML, and automated XML-based performance tests via Azure Pipelines.
 
 **Microsoft & Cyborg Mobile**  May 2023 – August 2023  
 *Software Engineering Intern, E+D (M365 Substrate)*  
-- Led the development of an automated data extraction, analysis, and storage pipeline, utilizing large language models, prompt engineering, natural language processing, and cloud analytics to identify trends across 300 post-mortem incidents, summarizing months of reports in under 10 minutes.
-- Presented the final product to the Vice President of Microsoft Substrate Fabric, demonstrating the operation of the pipeline, resulting in the team receiving additional funding to pursue similar projects.
+- Developed a data extraction, analysis, and storage pipeline using LLMs, KQL, and cloud databases to summarize incident reports, identify patterns, and generate visuals.
+- Applied language transformers to match predicted patterns, achieving 90% accuracy in predictions and 73% precision in similarity matching.
 
 **University of California, Los Angeles** June 2022 – April 2023  
 *Break Through Tech AI Fellow, Verizon & Google*  
-- Created datasets and trained an object detection model to sort phones by brand and color, achieving 96% confidence and 98% precision.
-- Collaborated with Verizon engineers on a color sorting algorithm using Euclidean distance, capable of predicting over 800 colors for inventory tracking and product recommendations.
-- Engineered a recommendation system to predict users' movie ratings for a Google-sponsored Kaggle competition, achieving first place for preliminary round submissions.
+- Compiled a dataset and trained an object detection model to classify smartphones by brand and color for inventory tracking, achieving 96\% confidence and 98% precision.
+- Designed a color-sorting method using bounding boxes, RGB histograms, and Euclidean distance to classify smartphone colors from a predefined set of over 800 colors.
 
 **Microsoft & Cyborg Mobile**  June 2022 – August 2022  
 *New Technologist Intern*  
-- Engaged in a seven-week academy to learn the product management lifecycle, applying these skills to develop a real-time climate data and emergency resources web application to inform communities facing extreme weather events.
-- Implemented web APIs, designed wireframes and UI layouts, and wrote an engineering specification to develop a minimum viable product that was presented to Microsoft executives.
+- Developed a real-time climate and emergency resource web app using React JS, integrating weather and air quality APIs to generate forecasts and provide health-based alerts.
+- Built an MVP allowing users to register health conditions and receive warnings for unsafe air quality or extreme weather, using map APIs to direct them to nearby safety shelters.
   
 Awards & Leadership
 ======
