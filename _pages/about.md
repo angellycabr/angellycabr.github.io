@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Angelly and I am an Electrical and Computer Engineering student at the University of Southern California (USC), specializing in Artificial Intelligence Applications. My interest in academic research ignited at the age of sixteen when I interned at my university's Biophotonics lab, investigating the relationship between Emerin and Actin protein concentrations in the development of Emery-Dreifuss Muscular Dystrophy.
+I recently completed my B.S. in Electrical and Computer Engineering at the University of Southern California, where I specialized in artificial intelligence and machine learning. My interest in research began at sixteen while interning at USC's Single Molecule Biophotonics Lab, where I studied protein interactions in the development of Emery-Dreifuss Muscular Dystrophy. As an undergraduate, I've been recognized as a Presidential Scholar, Viterbi Fellow, and a Ming Hsieh Institute Undergraduate Research Scholar. My work has also been recognized by the National Center for Women & IT.
 
-As an undergraduate at USC, I've been recognized as a Presidential Scholar, Viterbi Fellow, and a Ming Hsieh Institute Undergraduate Research Scholar. These accolades have provided me with exclusive funding, leadership opportunities, and invaluable mentorship. Now, as I look ahead to my journey as a prospective graduate student, I am looking to integrate my passion for the environment with my interests in machine learning to develop sustainable technology that benefits agricultural communities and promote greater access in communities most burned by the climate crisis.
+I am passionate about human-centered technology. My work spans affective, ecological, and social computing, from identifying emotional distress in children to detecting early-stage crop disease and improving hate speech detection. I am seeking opportunities that allow me to explore socially impactful applications of AI in areas related to affective and social computing.
+
 
 
