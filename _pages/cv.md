@@ -31,42 +31,25 @@ Research Experience
 *Wearable Bio-Sensing for Family Well-Being*  January 2022 – December 2023    
 - Engineered preprocessing scripts to convert raw biometric data from wearable devices into datasets, enabling early detection of emotional distress in adolescents through supervised learning.
 - Collaborated with psychology researchers to integrate audio transformers and extract event tags from audio data, enhancing biometric analysis to identify signs of inter-family conflict.
-
-Professional Experience
-======
-**Microsoft & Cyborg Mobile**  May 2024 – August 2024  
-*Software Engineering Intern, IC3 (M365 Substrate)*  
-- Developed a C# console application to host and migrate Microsoft Teams performance testing services from Azure Classic Cloud to Kubernetes following its deprecation.
-- Containerized testing services with Docker, deployed to Kubernetes using YAML, and automated XML-based performance tests via Azure Pipelines.
-
-**Microsoft & Cyborg Mobile**  May 2023 – August 2023  
-*Software Engineering Intern, E+D (M365 Substrate)*  
-- Developed a data extraction, analysis, and storage pipeline using LLMs, KQL, and cloud databases to summarize incident reports, identify patterns, and generate visuals.
-- Applied language transformers to match predicted patterns, achieving 90% accuracy in predictions and 73% precision in similarity matching.
-
-**University of California, Los Angeles** June 2022 – April 2023  
-*Break Through Tech AI Fellow, Verizon & Google*  
-- Compiled a dataset and trained an object detection model to classify smartphones by brand and color for inventory tracking, achieving 96\% confidence and 98% precision.
-- Designed a color-sorting method using bounding boxes, RGB histograms, and Euclidean distance to classify smartphone colors from a predefined set of over 800 colors.
-
-**Microsoft & Cyborg Mobile**  June 2022 – August 2022  
-*New Technologist Intern*  
-- Developed a real-time climate and emergency resource web app using React JS, integrating weather and air quality APIs to generate forecasts and provide health-based alerts.
-- Built an MVP allowing users to register health conditions and receive warnings for unsafe air quality or extreme weather, using map APIs to direct them to nearby safety shelters.
   
-Awards & Leadership
+Awards & Honors
 ======
-- **Albert Dorman Future Leader Award**, USC   2024
-- **Grand Challenges Scholar**, National Academy of Engineering   2024
-- **Honorable Mention**, National Center for Women & IT   2024
-- **AI Community Scholar**, USC & Google   2023
-- **Graduate School Mentorship Initiative**, Cientifico Latino   2023
-- **Research Scholar**, USC Ming Hsieh Institute   2023 - 2024
-- **Finalist**, National Center for Women & IT   2023
+- **Albert Dorman Future Leader Award**, USC   2024  
+  Awarded to top graduating Viterbi seniors for academic excellence and leadership potential.
+- **Grand Challenges Scholar**, National Academy of Engineering   2024  
+  Recognized for interdisciplinary engagement across the five NAE Grand Challenge Mindsets.
+- **Honorable Mention**, National Center for Women & IT ($2,500)   2024  
+  One of twelve undergraduate and graduate women recognized for impactful computing research.
+- **Research Scholar**, USC Ming Hsieh Institute ($1,000)   2023 - 2024  
+  Awarded to five undergraduates in the department for exceptional contributions to research.
+- **Finalist**, National Center for Women & IT   2023  
+  Recognized as one of 47 undergraduate and graduate women for computing innovation.
+- **College Match Finalist**, Questbridge   2020  
+  National program for high-achieving, low-income students earning full-ride scholarships.
+
+Professional Development
+======
+- **Graduate School Mentorship Initiative**, Científico Latino   2024
 - **Computer Science Research Mentorship Program**, Google   2023
-- **Latinx Student Leader**, Google   2022
-- **ANY Fellow**, America Needs You   2021 - 2022
-- **Presidential Scholar**, USC   2020 - 2024
-- **Linn-Viterbi Scholar**, USC   2020 - 2024
-- **Linn-Viterbi Fellow**, USC   2020 - 2024
-- **College Match Finalist**, Questbridge   2020
+- **Latinx Student Leadership Summit**, Google   2022
+- **Fellow**, America Needs You   2021 - 2022
