@@ -16,7 +16,7 @@ Education
 Research Experience
 ======
 - **Sarcasm-Enhanced Hate Speech Detection**   April 2024 – Present  
-  • Proposed and developed a BERT-BiLSTM model to detect implicit hate speech in sarcastic or coded language often missed by current state-of-the-art systems.  
+  • Explored whether sarcasm can serve as a proxy for covert hate speech to improve the detection of indirect and rhetorically complex abusive language online.
   • Employed sarcasm pretraining and sequential transfer learning to improve model performance, achieving 71% precision and 88% recall.  
   • Established sarcasm pretraining as a performance-enhancing strategy, improving hate speech detection by 7% across all metrics, including precision, recall, F1-score, and AUC.
 - **Monitoring Productivity in the Workplace**   January 2024 – March 2024  
@@ -32,6 +32,9 @@ Research Experience
 
 Professional Experience
 ======
+- **Technology Policy Fellow**, Paragon Policy Fellowship   May 2025 – Present
+  • Designing a data literacy assessment for Tempe, Arizona's workforce, including evaluation criteria, outreach strategy, and policy recommendations based on stakeholder engagement.
+  • Collaborated on a policy memo evaluating digital voting legislation in Arizona and recommending a phased rollout in Maricopa County.
 - **Software Engineering Intern**, Microsoft & Cyborg Mobile — IC3 (M365 Substrate)   May 2024 – August 2024  
   • Developed a C# console application to host and migrate Microsoft Teams performance testing services from Azure Classic Cloud to Kubernetes following its deprecation.  
   • Containerized testing services with Docker, deployed to Kubernetes using YAML, and automated XML-based performance tests via Azure Pipelines.
