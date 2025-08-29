@@ -11,5 +11,8 @@ I recently completed my B.S. in Electrical and Computer Engineering at the Unive
 
 I am passionate about human-centered technology. My work spans affective, ecological, and social computing, from identifying emotional distress in children to detecting early-stage crop disease and improving hate speech detection. I am seeking opportunities that allow me to explore socially impactful applications of AI in areas related to affective and social computing.
 
+[Download my CV (Updated: 08/2025)](../files/Angelly_Cabrera_CV.pdf)
+
+
 
 
