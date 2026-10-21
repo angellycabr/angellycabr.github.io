@@ -7,25 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a guest researcher at the National Institute of Standards and Technology. I completed my B.S. in Electrical and Computer Engineering at the University of Southern California. My interest in research began at sixteen while interning at USC’s Single Molecule Biophotonics Lab, where I studied protein interactions in the development of Emery-Dreifuss Muscular Dystrophy. As an undergraduate, I’ve been recognized as a Presidential Scholar, Viterbi Fellow, and a Ming Hsieh Institute Undergraduate Research Scholar. My work has also been recognized by the National Center for Women & IT and the National Academy of Engineering.
+I am an Associate Researcher at the National Institute of Standards and Technology (NIST). I work jointly with the Super Intelligence (SI) Standards and Guidelines Group and the Super Intelligence Technologies Group. My work centers on designing and developing evaluation benchmarks for generative technologies. Currently, I am developing software to evaluate various types of digital watermarks under natural and adversarial transformations. 
 
-I am passionate about human-centered technology. My work spans affective, ecological, and social computing, from identifying emotional distress in children to detecting early-stage crop disease and improving hate speech detection. I am interested in exploring impactful applications of AI in areas related to affective and social computing.
+Prior to NIST, I completed my B.S. in Electrical and Computer Engineering at the University of Southern California (USC). I was advised by Dr. Shrikanth Narayanan from the Signal Analysis and Interpretation Laboratory. During my undergraduate studies, I was recognized as a Presidential Scholar, Viterbi Fellow, and a Ming Hsieh Institute Undergraduate Research Scholar. My work has also been recognized by the National Center for Women & IT and the National Academy of Engineering. 
 
-Selected Awards
-======
-- Grand Challenges Scholar, National Academy of Engineering (2024)
-- Collegiate Award Honorable Mention, National Center for Women & IT (2024)
-- Undergraduate Research Scholar, Ming Hsieh Institute (2023)
-- Latinx Student Leader, Google (2022)
+Before undergrad, I was familiar with conducting research. In fact, my interest in research began when I was sixteen years old and interning at USC’s Single Molecule Biophotonics Lab. There, I studied protein interactions, more so the lack of, in the development of Emery-Dreifuss Muscular Dystrophy. 
 
-Recent News
-======
-- 12/2025: I will begin my role as a guest researcher at the National Institute of Standards and Technology through their Professional Research and Experience Program (PREP).
-- 09/2025: My preprint "Transfer Learning via Lexical Relatedness" was accepted at the Queer in AI workshop at NeurIPS in San Diego.
-- 07/2024: My project "Early Detection of Coffee Leaf Rust Through Convolutional Neural Networks Trained on Low-Resolution Images," accompanied by a preprint by the same name, was awarded Honorable Mention for the National Center for Women & Information Technology (NCWIT) Collegiate Award.
-
-[Download my CV (Updated: 08/2025)](../files/Angelly_Cabrera_CV.pdf)
-
+I am passionate about human-centered technology and the creation of responsible intelligent systems. My past research spanned affective, ecological, and social computing, including identifying emotional distress in children, detecting early-stage crop disease, and, more recently, improving hate speech detection when disguised through covert speech. 
 
 
 
